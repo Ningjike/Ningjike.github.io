@@ -1,0 +1,8 @@
+---
+layout: post
+author: Ning
+---
+
+**GitHub Pages is a powerful and free tool that allows you to host static websites directly from your GitHub repositories.**
+---
+[setting](assets)
