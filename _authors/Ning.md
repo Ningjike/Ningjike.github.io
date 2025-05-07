@@ -1,6 +1,6 @@
 ---
 short_name: Ning
-name: Ning Jingke
+name: NingJike
 position: Chief Editor
 ---
 
